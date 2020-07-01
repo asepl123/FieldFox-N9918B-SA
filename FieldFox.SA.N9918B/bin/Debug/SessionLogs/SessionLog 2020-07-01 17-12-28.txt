@@ -1,0 +1,41 @@
+﻿2020-07-01 17:12:28.875618 ; Session        ; Debug       ; Session log loaded as 'C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\SessionLogs\tap 2020-07-01 17-12-28.txt'. [6.92 ms]
+2020-07-01 17:12:28.904537 ; Session        ; Debug       ; Running '"tap.exe" package install --dependencies --force "Developer's System CE"' in 'C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug'.
+2020-07-01 17:12:28.944430 ; Session        ; Debug       ; Microsoft Windows 10.0.18363 X64
+2020-07-01 17:12:28.944430 ; Session        ; Debug       ; .NET Framework 4.8.4180.0
+2020-07-01 17:12:28.975351 ; Resolver       ; Debug       ; Found 70/70 assembly files. [24.2 ms]
+2020-07-01 17:12:28.977345 ; Session        ; Debug       ; OpenTAP Engine 9.7.0+c65b0c5a X64
+2020-07-01 17:12:29.028239 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2020-07-01 17:12:29.068133 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2020-07-01 17:12:29.219696 ; Searcher       ; Debug       ; Ordered 67 assemblies according to references. [167 ms]
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found 16 plugin assemblies containing 238 plugin types. [345 ms]
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.0+c65b0c5a   of OpenTap.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.0+c65b0c5a   of OpenTap.Plugins.BasicSteps.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.1+0031e3f6   of Keysight.OpenTap.Wpf.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.0+c65b0c5a   of OpenTap.Package.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.1+0031e3f6   of PackageManager.exe
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.1+0031e3f6   of Editor.exe
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.1+0031e3f6   of Keysight.OpenTap.Plugins.Csv.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.1+0031e3f6   of ResultsViewer.exe
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.1+0031e3f6   of RunExplorer.exe
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.7.1+0031e3f6   of Keysight.OpenTap.CommunityEditionPopup.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version                  of OpenTap.Sdk.New.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Found version 1.0.8+30d65bf9   of OpenTap.VSSdk.Installer.dll
+2020-07-01 17:12:29.395225 ; PluginManager  ; Debug       ; Searched 70 Assemblies. [346 ms]
+2020-07-01 17:12:29.456063 ; PluginManager  ; Debug       ; Loaded OpenTap. [484 us]
+2020-07-01 17:12:29.474015 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [3.33 ms]
+2020-07-01 17:12:29.507927 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [4.38 ms]
+2020-07-01 17:12:29.537844 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [9.67 ms]
+2020-07-01 17:12:29.580731 ; Session        ; Debug       ; Session log loaded as 'C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\SessionLogs\SessionLog 2020-07-01 17-12-28.txt'. [13.9 ms]
+2020-07-01 17:12:29.596687 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [3.78 ms]
+2020-07-01 17:12:29.600676 ; PluginManager  ; Debug       ; Loaded PackageManager. [2.99 ms]
+2020-07-01 17:12:29.603668 ; PluginManager  ; Debug       ; Loaded Editor. [3.24 ms]
+2020-07-01 17:12:29.607657 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [3.45 ms]
+2020-07-01 17:12:29.610650 ; PluginManager  ; Debug       ; Loaded RunExplorer. [2.96 ms]
+2020-07-01 17:12:29.613641 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.CommunityEditionPopup. [2.95 ms]
+2020-07-01 17:12:29.616633 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [2.77 ms]
+2020-07-01 17:12:29.620622 ; PluginManager  ; Debug       ; Loaded OpenTap.Sdk.New. [2.89 ms]
+2020-07-01 17:12:29.623614 ; PluginManager  ; Debug       ; Loaded OpenTap.VSSdk.Installer. [3.01 ms]

@@ -13,7 +13,7 @@ using OpenTap;
 
 namespace FieldFox.SA.N9918B
 {
-	[Display("MyTestStep1", Group: "FieldFox.SA.N9918B", Description: "Insert a description here")]
+	[Display("Store", Group: "FieldFox.SA.N9918B", Description: "Insert a description here")]
 	public class Store : TestStep
 	{
         #region Settings

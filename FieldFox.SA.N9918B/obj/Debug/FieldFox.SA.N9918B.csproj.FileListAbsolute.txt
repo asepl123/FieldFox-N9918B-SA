@@ -1,0 +1,8 @@
+C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\FieldFox.SA.N9918B.dll
+C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\FieldFox.SA.N9918B.pdb
+C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\OpenTap.dll
+C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\obj\Debug\FieldFox.SA.N9918B.csprojAssemblyReference.cache
+C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\obj\Debug\FieldFox.SA.N9918B.csproj.CoreCompileInputs.cache
+C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\obj\Debug\FieldFox.SA.N9918B.csproj.CopyComplete
+C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\obj\Debug\FieldFox.SA.N9918B.dll
+C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\obj\Debug\FieldFox.SA.N9918B.pdb

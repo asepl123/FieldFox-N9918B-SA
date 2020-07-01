@@ -2,7 +2,7 @@
   "profiles": {
     "Editor": {
       "commandName": "Executable",
-      "executablePath": "./editor.exe"
+      "executablePath": "C:\\Users\\ae1\\source\\repos\\Output\\FF-SA-N9918B\\Editor.exe"
     }
   }
 }

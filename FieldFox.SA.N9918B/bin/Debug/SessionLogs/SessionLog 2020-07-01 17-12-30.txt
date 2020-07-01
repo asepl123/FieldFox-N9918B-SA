@@ -1,0 +1,35 @@
+﻿2020-07-01 17:12:31.807650 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [9.56 ms]
+2020-07-01 17:12:30.432639 ; Session        ; Debug       ; Session log loaded as 'C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\SessionLogs\tap 2020-07-01 17-12-30.txt'. [8.35 ms]
+2020-07-01 17:12:30.469512 ; Session        ; Debug       ; Running '"C:\Users\ae1\AppData\Local\Temp\5kz5sdh5.hcs\tap.exe" package install --dependencies --force "Developer's System CE" --target "C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug"' in 'C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug'.
+2020-07-01 17:12:30.530343 ; Session        ; Debug       ; Microsoft Windows 10.0.18363 X64
+2020-07-01 17:12:30.530343 ; Session        ; Debug       ; .NET Framework 4.8.4180.0
+2020-07-01 17:12:30.552285 ; Resolver       ; Debug       ; Found 18/18 assembly files. [12.5 ms]
+2020-07-01 17:12:30.570238 ; Session        ; Debug       ; OpenTAP Engine 9.7.0+c65b0c5a X64
+2020-07-01 17:12:30.706872 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\ae1\AppData\Local\Temp\5kz5sdh5.hcs\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2020-07-01 17:12:30.780675 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\ae1\AppData\Local\Temp\5kz5sdh5.hcs\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2020-07-01 17:12:31.621175 ; Searcher       ; Debug       ; Ordered 17 assemblies according to references. [893 ms]
+2020-07-01 17:12:31.734847 ; PluginManager  ; Debug       ; Found 4 plugin assemblies containing 150 plugin types. [1.00 s]
+2020-07-01 17:12:31.734847 ; PluginManager  ; Debug       ; Found version 9.7.0+c65b0c5a   of OpenTap.dll
+2020-07-01 17:12:31.734847 ; PluginManager  ; Debug       ; Found version 9.7.0+c65b0c5a   of OpenTap.Package.dll
+2020-07-01 17:12:31.734847 ; PluginManager  ; Debug       ; Found version 9.7.0+c65b0c5a   of OpenTap.Plugins.BasicSteps.dll
+2020-07-01 17:12:31.734847 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2020-07-01 17:12:31.734847 ; PluginManager  ; Debug       ; Searched 18 Assemblies. [1.00 s]
+2020-07-01 17:12:31.784713 ; PluginManager  ; Debug       ; Loaded OpenTap. [339 us]
+2020-07-01 17:12:31.847544 ; Session        ; Debug       ; Session log loaded as 'C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\SessionLogs\SessionLog 2020-07-01 17-12-30.txt'. [13.1 ms]
+2020-07-01 17:12:31.865495 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [3.86 ms]
+2020-07-01 17:12:31.869486 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [3.74 ms]
+2020-07-01 17:12:31.920348 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [3.74 ms]
+2020-07-01 17:12:32.095878 ; PackageAction  ; Information ; Installing to C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug
+2020-07-01 17:12:32.099869 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [3.64 ms]
+2020-07-01 17:12:32.980242 ; PackageAction  ; Debug       ; Found package Developer's System CE version 9.8.1+76e06503 in local cache [347 ms]
+2020-07-01 17:12:32.981243 ; PackageAction  ; Debug       ; Resolving dependencies.
+2020-07-01 17:12:33.074988 ; FilePackageRepository ; Debug       ; Downloading file without searching repository.
+2020-07-01 17:12:33.075985 ; PackageAction  ; Information ; Found package 'Developer's System CE' in cache. Copied to 'C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug\PackageCache\Developer's System CE.9.8.1+76e06503.TapPackage'. [6.19 ms]
+2020-07-01 17:12:33.124891 ; Package        ; Debug       ; Available custom actions for 'uninstall' stage. (1 actions: OS Integration - File associations and start menu items)
+2020-07-01 17:12:33.127845 ; OS Integration ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2020-07-01 17:12:33.130874 ; package        ; Debug       ; Deleting file 'C:\Users\ae1\Source\Repos\tarang1606\FieldFox-N9918B-SA\FieldFox.SA.N9918B\bin\Debug/Packages/Developer's System CE/package.xml'.
+2020-07-01 17:12:33.132832 ; Installer      ; Information ; Uninstalled Developer's System CE version 9.8.1+76e06503. [21.8 ms]
+2020-07-01 17:12:33.217704 ; package        ; Debug       ; Decompressed C:/Users/ae1/Source/Repos/tarang1606/FieldFox-N9918B-SA/FieldFox.SA.N9918B/bin/Debug/Packages/Developer's System CE/package.xml [5.58 ms]
+2020-07-01 17:12:33.217704 ; Package        ; Debug       ; Available custom actions for 'install' stage. (1 actions: OS Integration - File associations and start menu items)
+2020-07-01 17:12:33.221692 ; OS Integration ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2020-07-01 17:12:33.221692 ; Installer      ; Information ; Installed Developer's System CE version 9.8.1+76e06503 [17.3 ms]
